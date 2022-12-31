@@ -11,4 +11,5 @@ $tablet: "max-width: 900px";
 :root {
   --phoneWidth: (max-width: 684px);
   --tabletWidth: (max-width: 900px);
+  --accentColor: #{$accent};
 }
